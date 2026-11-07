@@ -1,6 +1,6 @@
 # Dr. Hamzah Naser Mahmood
 
-Electrical and electronic engineer in Penang, Malaysia · PhD, Universiti Sains Malaysia (2026)
+Electrical and electronic engineer · PhD, Universiti Sains Malaysia (2026)
 
 Most of my work is about measurement: how circuits, sensors and radio links behave, and how far their numbers can be trusted.
 I also explain engineering step by step, from projects you can build to research papers in plain language.
@@ -8,8 +8,8 @@ I also explain engineering step by step, from projects you can build to research
 ## Background
 - **PhD**, Universiti Sains Malaysia (2026): how airborne dust affects short-range radio links at Wi-Fi frequencies.
 - **MSc by research**, Universiti Sains Malaysia (2018): low-cost magnetic sensors for civilian safety.
-- **BEng (Hons) Electrical and Electronic Engineering**, Northumbria University, at KDU College, Penang (2014).
-- **Diploma in Telecommunications Engineering**, INTI International College, Penang (2011).
+- **BEng (Hons) Electrical and Electronic Engineering**, Northumbria University, at KDU College, Penang (2014): led a four-person design project (a gyroscope-based alarm), then built a USB resistance and capacitance meter.
+- **Diploma in Telecommunications Engineering**, INTI International College, Penang (2011): Dean's List; final project, a microcontroller car alarm that texts the owner.
 - Teaching assistant, School of Electrical and Electronic Engineering, USM (2015–2018 and 2019–2022): circuit theory, electromagnetics and calculus.
 
 ## Projects
