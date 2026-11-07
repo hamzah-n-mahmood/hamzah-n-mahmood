@@ -5,6 +5,11 @@ Electrical and electronic engineer · PhD, Universiti Sains Malaysia (2026)
 Most of my work is about measurement: how circuits, sensors and radio links behave, and how far their numbers can be trusted.
 I also explain engineering step by step, from projects you can build to research papers in plain language.
 
+## [WASLA | وصلة](https://www.youtube.com/@WaslaEngineering)
+My channel. Wasla is Arabic for a link: a joint, an electrical connection. One circuit board for every stage so far: telecom, circuits, magnetics, radio.
+
+[![WASLA: where the fields connect](assets/wasla_board.png)](https://www.youtube.com/@WaslaEngineering)
+
 ## Background
 - **PhD**, Universiti Sains Malaysia (2026): how airborne dust affects short-range radio links at Wi-Fi frequencies.
 - **MSc by research**, Universiti Sains Malaysia (2018): low-cost magnetic sensors for civilian safety.
@@ -23,5 +28,6 @@ I also explain engineering step by step, from projects you can build to research
 - Three papers on low-cost magnetic sensing for civilian safety: *IEEE Sensors Journal* (2020), *Journal of Electronic Science and Technology* (2016) and IEEE PrimeAsia (2017).
 
 ## Elsewhere
+- YouTube: [WASLA | وصلة](https://www.youtube.com/@WaslaEngineering)
 - LinkedIn: https://www.linkedin.com/in/hamzah-n-mahmood
 - ORCID (full publication list): https://orcid.org/0000-0003-3404-1268
