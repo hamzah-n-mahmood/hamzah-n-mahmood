@@ -7,7 +7,7 @@ I work where circuits, sensors and radio meet measurement: how a system behaves,
 ## [WASLA | وصلة](https://www.youtube.com/@WaslaEngineering)
 My YouTube channel: engineering explained step by step, from real projects to research papers in plain language. Wasla is Arabic for a link: a joint, an electrical connection.
 
-[![WASLA: where the fields connect](assets/wasla_board.png)](https://www.youtube.com/@WaslaEngineering)
+[![WASLA: where the fields connect](assets/wasla_receiver.png)](https://www.youtube.com/@WaslaEngineering)
 
 ## Background
 - **PhD**, Universiti Sains Malaysia (2026): radio propagation, how airborne dust affects short-range radio links.
